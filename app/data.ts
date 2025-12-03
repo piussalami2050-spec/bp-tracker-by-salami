@@ -1,0 +1,21 @@
+export const nigeria = [
+  { state: "Abia", sick: 32.1 }, { state: "Adamawa", sick: 28.4 },
+  { state: "Akwa Ibom", sick: 35.8 }, { state: "Anambra", sick: 31.2 },
+  { state: "Bauchi", sick: 25.9 }, { state: "Bayelsa", sick: 34.6 },
+  { state: "Benue", sick: 29.7 }, { state: "Borno", sick: 26.3 },
+  { state: "Cross River", sick: 33.4 }, { state: "Delta", sick: 32.9 },
+  { state: "Ebonyi", sick: 30.5 }, { state: "Edo", sick: 34.2 },
+  { state: "Ekiti", sick: 31.6 }, { state: "Enugu", sick: 30.8 },
+  { state: "FCT (Abuja)", sick: 29.2 }, { state: "Gombe", sick: 27.1 },
+  { state: "Imo", sick: 33.0 }, { state: "Jigawa", sick: 24.8 },
+  { state: "Kaduna", sick: 28.9 }, { state: "Kano", sick: 27.5 },
+  { state: "Katsina", sick: 26.7 }, { state: "Kebbi", sick: 25.4 },
+  { state: "Kogi", sick: 30.1 }, { state: "Kwara", sick: 29.8 },
+  { state: "Lagos", sick: 33.7 }, { state: "Nasarawa", sick: 28.6 },
+  { state: "Niger", sick: 27.9 }, { state: "Ogun", sick: 36.2 },
+  { state: "Ondo", sick: 32.4 }, { state: "Osun", sick: 31.9 },
+  { state: "Oyo", sick: 30.3 }, { state: "Plateau", sick: 28.2 },
+  { state: "Rivers", sick: 35.1 }, { state: "Sokoto", sick: 25.7 },
+  { state: "Taraba", sick: 29.4 }, { state: "Yobe", sick: 26.1 },
+  { state: "Zamfara", sick: 24.9 }
+];
